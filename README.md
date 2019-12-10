@@ -1,3 +1,4 @@
 # HEPClass
 
-## Aqui se encuentra la tarea del curso de Altas Energías, en caso la imagen no se cargue también se encuentra una imagen representativa de la pseudorapidez
+## El notebook llamado HEP_Taipe_Zabala_Final se puede abrir con mybinder.org para poder visualizar las imágenes y 
+## ver el programa completo
